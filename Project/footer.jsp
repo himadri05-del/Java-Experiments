@@ -1,0 +1,1 @@
+<footer class="footer"><div><a class="brand footer-brand" href="${pageContext.request.contextPath}/">ShopSphere<span class="brand-dot">.</span></a><p>Good design. Great finds. Everyday essentials.</p></div><div class="footer-right">Made for your everyday <span>© 2026 ShopSphere</span></div></footer>
